@@ -1,0 +1,15 @@
+-lấy accessToken trong localStore ra 
+islogin:true-->check đã đăng nhập chưa
+Lấy token => user
+
+từ trang web-->đăng nhập-->isLogin=true và lấy ra accessToken -->Từ accessToken lấy ra thông tin user 
+-->Mua hàng-->cần xu và miễn phí--> ấn mua sẽ kiểm tra xu nếu đủ thì trừ xu trong user
+
+Logout--> isLogin=false và cho accessToken=""
+
+
+-5 trang :
++tin tức 
++ Khóa học tài chính
++khóa học doanh nghiệp
++đối tác

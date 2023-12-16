@@ -1,0 +1,7 @@
+-thêm validate ở bảng mô tả dữ liệu
+-bỏ mũi tên ở phân rã chức năng
+-sơ đồ thực thể nên bỏ thuộc tính
+- thêm khảo sát ai,ở đâu khi nào,bao nhiêu người 
+-Thêm phát biểu bài toán
+-viết thêm cho lời nó đầu
+-Thêm mục tiêu và phạm vi bài toán 

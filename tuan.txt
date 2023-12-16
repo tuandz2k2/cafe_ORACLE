@@ -1,0 +1,20 @@
+$objPHPExcel->setActiveSheetIndex(0)
+            ->setCellValue('A1', 'Mã tin tức')
+            ->setCellValue('B1','Ảnh ')
+            ->setCellValue('C1', 'Tiêu đề')
+            ->setCellValue('D1', 'Nội dung')
+            ->setCellValue('E1', 'Mô tả tin tức')
+            ->setCellValue('F1', 'Ngày đăng');
+ $key = 0;
+ foreach ($listNews as $i) { 
+
+// Add some data
+$objPHPExcel->setActiveSheetIndex(0)
+            ->setCellValue('A'.($key+2), $i->getMaTinTuc())
+            ->setCellValue('B'.($key+2), $i->getAnh())
+            ->setCellValue('C'.($key+2), $i->getTieuDe())
+            ->setCellValue('D'.($key+2), $i->getNoiDung())
+            ->setCellValue('E'.($key+2), $i->getmoTaNgan())
+            ->setCellValue('F'.($key+2), $i->getNgayTao());
+            $key ++;
+ }

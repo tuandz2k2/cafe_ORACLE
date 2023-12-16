@@ -1,0 +1,31 @@
+bỏ tích create as Con....(trang 4)
+t2hdmdw
+Material Icon theme
+-------------------Báo cáo-------------------------
+1.1.3Giao diện và các chức năng dự kiến
+-chia làm giao diện người dùng và giao diện admin
+-Cần thêm phần báo cáo và xuất exel
+
+--------------Cần làm-----------
+--sửa  database
+--clone font-end
+-vẽ bảng từ database
+-thêm dữ liệu vào database
+-vẽ use-case
+-kiếm ảnh cho các sản phẩm,.......
+-Tổng hợp word
+
+
+
+
+
+
+
+
+
+
+
+
+
+--Thêm mô tả sản phẩm
+--Thêm trạng thái vào hóa đơn bán
